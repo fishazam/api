@@ -13,6 +13,9 @@ The code was developed as part of [Fishackathon](http://www.fishackathon.co/) 20
 - [NumPy](http://www.numpy.org)
 - [SeaBreeze - Embedded Open-Source Device Driver](http://oceanoptics.com/products/seabreeze/)
 - [pyUSB==1.0.0b2](https://walac.github.io/pyusb/)
+- [python requests](http://docs.python-requests.org/en/master/)
+- [python json](https://docs.python.org/2/library/json.html)
+
 
 ## Installation
 
